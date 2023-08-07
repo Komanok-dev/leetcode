@@ -34,4 +34,5 @@
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |[Python](./longest-common-prefix.py) | _O(n)_ | _O(1)_ | Easy |String, Trie|
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |[Python](./valid-parentheses.py) | _O(n)_ | _O(n)_ | Easy |String, Stack|
 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |[Python](./remove-duplicates-from-sorted-array.py) | _O(n)_ | _O(1)_ | Easy |Array, Tow Pointers|
-31 | [Merge Two Sorted Lists](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |[Python](./merge-two-sorted-lists.py) | _O(n)_ | _O(n)_ | Easy |Linked List, Recurcion|
+27 | [Remove Element](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |[Python](./remove-duplicates-from-sorted-array.py) | _O(n)_ | _O(1)_ | Easy |Array, Tow Pointers|
+31 | [Merge Two Sorted Lists](https://leetcode.com/problems/remove-element/) |[Python](./remove-element.py) | _O(n)_ | _O(n)_ | Easy |Linked List, Recurcion|
