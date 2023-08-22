@@ -12,7 +12,6 @@ class Solution:
 
 
     # Math
-
     def plusOne2(self, digits: list[int]) -> list[int]:
         number = 0
         for i in digits:

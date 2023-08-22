@@ -8,7 +8,7 @@ class ListNode:
 
 
 class Solution:
-    # Space O(1)
+    # Space Complexity O(1)
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         while head:
             if head.val == 'checked node':

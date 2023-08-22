@@ -1,4 +1,5 @@
 class Solution:
+    # Time Complexity O(n+n)
     def findMedianSortedArrays(self, nums1: list[int], nums2: list[int]) -> float:
         i = len(nums1) - 1
         j = len(nums2) - 1
