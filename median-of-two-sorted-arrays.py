@@ -1,4 +1,10 @@
 class Solution:
+    # Time Complexity O(log n)
+    # Space Complexity O(1)
+    def findMedianSortedArrays(self, nums1: list[int], nums2: list[int]) -> float:
+        pass
+
+    
     # Time Complexity O(n+n)
     # Space Complexity O(1)
     def findMedianSortedArrays2(self, nums1: list[int], nums2: list[int]) -> float:
@@ -24,4 +30,3 @@ class Solution:
             return nums1[len(nums1) // 2]
         else:
             return (nums1[len(nums1) // 2 - 1] + nums1[len(nums1) // 2]) / 2
-
