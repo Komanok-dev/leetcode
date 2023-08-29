@@ -1,10 +1,34 @@
 class Solution:
-    # Time Complexity O(log n)
+    # Time Complexity O(log min(m,n))
     # Space Complexity O(1)
     def findMedianSortedArrays(self, nums1: list[int], nums2: list[int]) -> float:
-        pass
+        if len(nums1) > len(nums2):
+            return self.findMedianSortedArrays(nums2, nums1)
 
-    
+        total_lengh = len(nums1) + len(nums2)
+        half = total_lengh // 2
+        mid1 = (len(nums1) - 1) // 2
+        mid2 = half - mid1 - 2
+
+        while True:
+            print('half =', half, 'mid1 =', mid1, 'mid2 =', mid2)
+            left1 = nums1[mid1] if mid1 >= 0 else float('-inf')
+            right1 = nums1[mid1+1] if mid1 < len(nums1) - 1 else float('inf')
+            left2 = nums2[mid2] if mid2 >= 0 else float('-inf')
+            right2 = nums2[mid2+1] if mid2 < len(nums2) - 1 else float('inf')
+
+            if left1 <= right2 and left2 <= right1:
+                if total_lengh % 2:
+                    return min(right1, right2)
+                else:
+                    return (min(right1, right2) + max(left1, left2)) / 2
+            elif left1 > right2:
+                mid1 -= 1
+                mid2 += 1
+            else:
+                mid1 += 1
+                mid2 -= 1
+
     # Time Complexity O(n+n)
     # Space Complexity O(1)
     def findMedianSortedArrays2(self, nums1: list[int], nums2: list[int]) -> float:
