@@ -11,7 +11,6 @@ class Solution:
         mid2 = half - mid1 - 2
 
         while True:
-            print('half =', half, 'mid1 =', mid1, 'mid2 =', mid2)
             left1 = nums1[mid1] if mid1 >= 0 else float('-inf')
             right1 = nums1[mid1+1] if mid1 < len(nums1) - 1 else float('inf')
             left2 = nums2[mid2] if mid2 >= 0 else float('-inf')
