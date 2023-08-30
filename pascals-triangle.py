@@ -1,5 +1,14 @@
 class Solution:
     def generate(self, numRows: int) -> list[list[int]]:
+        row = [1]
+        result = [row]
+        for _ in range(numRows):
+            row = [x + y for x, y in zip([0] + row, row + [0])]
+            result.append(row)
+        return result
+    
+    # Recursion
+    def generate2(self, numRows: int) -> list[list[int]]:
         if numRows == 1:
             return [[1]]
         result = self.generate(numRows - 1)
