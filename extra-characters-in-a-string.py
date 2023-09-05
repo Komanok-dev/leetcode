@@ -1,5 +1,5 @@
 class Solution:
-    def minExtraChar(self, s: str, dictionary: List[str]) -> int:
+    def minExtraChar(self, s: str, dictionary: list[str]) -> int:
         max_val = len(s) + 1
         dp = [max_val] * (len(s) + 1)
         dp[0] = 0 
