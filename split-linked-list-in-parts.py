@@ -44,38 +44,3 @@ class Solution:
             k -= 1
 
         return ans
-
-
-
-
-head = [1,2,3,4,5,6,7,8,9,10]
-k = 3
-head = [1,2,3]
-k = 5
-head = [0,1,2] # [[0,1],[2]]
-k = 2
-head = [0,1,2,3,4] # [[0,1],[2,3],[4]]
-k = 3
-
-linked_list = ListNode(head[0])
-tail = linked_list
-for i in range(1, len(head)):
-    tail.next = ListNode(head[i])
-    tail = tail.next
-
-node = linked_list
-while node:
-    print(node.val, end=' --> ')
-    node = node.next
-print('null\n')
-
-
-a = Solution()
-new = a.splitListToParts(linked_list, k)
-
-for j in new:
-    node = j
-    while node:
-        print(node.val, end=' --> ')
-        node = node.next
-    print('null')
