@@ -1,5 +1,5 @@
 class Solution:
-    def minCostConnectPoints(self, points: List[List[int]]) -> int:
+    def minCostConnectPoints(self, points: list[list[int]]) -> int:
         result, u = 0, 0
         dist = [float("inf")] * len(points)
         lookup = set()
