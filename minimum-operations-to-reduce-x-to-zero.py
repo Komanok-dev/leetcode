@@ -1,5 +1,11 @@
 class Solution:
     def minOperations(self, nums: list[int], x: int) -> int:
+        pass
+
+
+
+
+    def minOperations2(self, nums: list[int], x: int) -> int:
         target = sum(nums) - x
         result = -1
         curr = left = 0
