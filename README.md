@@ -80,6 +80,7 @@
 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) |[Python](./reconstruct-itinerary.py) | _O(log<sub>m/n</sub>)_ | _O(m+n)_ | Hard |Depth-First Search, Graph, Eulerian Circuit|
 338 | [Counting Bits](https://leetcode.com/problems/counting-bits) |[Python](./counting-bits.py) | _O(n)_ | _O(n)_ | Easy |Dynamic Programming, Bit Manipulation|
 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) |[Python](./combination-sum-iv.py) | _O(n*t)_ | _O(t)_ | Medium |Array, Dynamic Programming|
+389 | [Find The Difference](https://leetcode.com/problems/find-the-difference/) |[Python](./find-the-difference.py) | _O(n)_ | _O(n)_ | Easy |Hash Table, String, Bit Manipulation, Sorting|
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[Python](./is-subsequence.py) | _O(n)_ | _O(1)_ | Easy |Two Pointers, String, Dynamic Programming|
 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) |[Python](./repeated-substring-pattern.py) | _O(n)_ | _O(1)_ | Easy |String, String Matching|
 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) |[Python](./can-place-flowers.py) | _O(n)_ | _O(1)_ | Easy |Array, Greedy|
