@@ -78,7 +78,7 @@
 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) |[Python](./single-number-iii.py) | _O(n)_ | _O(1)_ | Medium |Array, Bit Manipulation|
 268 | [Missing Number](https://leetcode.com/problems/missing-number/) |[Python](./missing-number.py) | _O(n)_ | _O(1)_ | Easy |Array, Hash Table, Math|
 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |[Python](./find-the-duplicate-number.py) | _O(n)_ | _O(1)_ | Medium |Array, Two Pointers, Binary Search, Bit Manipulation|
-316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) |[Python](./remove-duplicate-letters.py) | _O(n)_ | _O(1)_ | Medium |String, Stack, Greedy, Monotonic Stack|
+316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) |[Python](./remove-duplicate-letters.py) | _O(n)_ | _O(k)_ | Medium |String, Stack, Greedy, Monotonic Stack|
 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) |[Python](./bulb-switcher.py) | _O(1)_ | _O(1)_ | Medium |Math, Brainteaser|
 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) |[Python](./reconstruct-itinerary.py) | _O(log<sub>m/n</sub>)_ | _O(m+n)_ | Hard |Depth-First Search, Graph, Eulerian Circuit|
 338 | [Counting Bits](https://leetcode.com/problems/counting-bits) |[Python](./counting-bits.py) | _O(n)_ | _O(n)_ | Easy |Dynamic Programming, Bit Manipulation|
@@ -91,6 +91,7 @@
 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) |[Python](./champagne-tower.py) | _O(n)_ | _O(n)_ | Medium |Dynamic Programming|
 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) |[Python](./shortest-path-visiting-all-nodes.py) | _O(n*2^n)_ | _O(n*2^n)_ | Hard |Dynamic Programming, Bit Manipulation, Deep-First Search, Graph, Bitmask|
 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) |[Python](./longest-string-chain.py) | _O(n)_ | _O(n)_ | Medium |Array, Hash Table, Two Pointers, String, Dynamic Programming|
+1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) |[Python](./smallest-subsequence-of-distinct-characters.py) | _O(n)_ | _O(k)_ | Medium |String, Stack, Greedy, Monotonic Stack|
 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) |[Python](./group-the-people-given-the-group-size-they-belong-to.py) | _O(n)_ | _O(n)_ | Hard |Array, Hash Table|
 1326 | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) |[Python](./minimum-number-of-taps-to-open-to-water-a-garden.py) | _O(n)_ | _O(n)_ | Hard |Array, Dynamic Programming, Greedy|
 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) |[Python](./the-k-weakest-rows-in-a-matrix.py) | _O(n)_ | _O(n)_ | Easy |Array, Binary Search, Sorting, Heap(Priority Queue), Matrix|
