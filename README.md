@@ -85,6 +85,7 @@
 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) |[Python](./combination-sum-iv.py) | _O(n*t)_ | _O(t)_ | Medium |Array, Dynamic Programming|
 389 | [Find The Difference](https://leetcode.com/problems/find-the-difference/) |[Python](./find-the-difference.py) | _O(n)_ | _O(n)_ | Easy |Hash Table, String, Bit Manipulation, Sorting|
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[Python](./is-subsequence.py) | _O(n)_ | _O(1)_ | Easy |Two Pointers, String, Dynamic Programming|
+456 | [132 Pattern](https://leetcode.com/problems/132-pattern/) |[Python](./132-pattern.py) | _O(n)_ | _O(1)_ | Medium |Array, Binary Search, Stack, Monotonic Stack, Ordered Set|
 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) |[Python](./repeated-substring-pattern.py) | _O(n)_ | _O(1)_ | Easy |String, String Matching|
 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) |[Python](./can-place-flowers.py) | _O(n)_ | _O(1)_ | Easy |Array, Greedy|
 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) |[Python](./split-linked-list-in-parts.py) | _O(n)_ | _O(n)_ | Medium |Linked List|
