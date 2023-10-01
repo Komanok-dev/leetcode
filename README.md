@@ -80,6 +80,7 @@
 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |[Python](./find-the-duplicate-number.py) | _O(n)_ | _O(1)_ | Medium |Array, Two Pointers, Binary Search, Bit Manipulation|
 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) |[Python](./remove-duplicate-letters.py) | _O(n)_ | _O(k)_ | Medium |String, Stack, Greedy, Monotonic Stack|
 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) |[Python](./bulb-switcher.py) | _O(1)_ | _O(1)_ | Medium |Math, Brainteaser|
+326 | [Power of Three](https://leetcode.com/problems/power-of-three/) |[Python](./power-of-three.py) | _O(1)_ | _O(1)_ | Easy |Math, Resursion|
 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) |[Python](./reconstruct-itinerary.py) | _O(log<sub>m/n</sub>)_ | _O(m+n)_ | Hard |Depth-First Search, Graph, Eulerian Circuit|
 338 | [Counting Bits](https://leetcode.com/problems/counting-bits) |[Python](./counting-bits.py) | _O(n)_ | _O(n)_ | Easy |Dynamic Programming, Bit Manipulation|
 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) |[Python](./combination-sum-iv.py) | _O(n*t)_ | _O(t)_ | Medium |Array, Dynamic Programming|
