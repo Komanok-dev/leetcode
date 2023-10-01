@@ -90,6 +90,7 @@
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[Python](./is-subsequence.py) | _O(n)_ | _O(1)_ | Easy |Two Pointers, String, Dynamic Programming|
 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/) |[Python](./132-pattern.py) | _O(n)_ | _O(1)_ | Medium |Array, Binary Search, Stack, Monotonic Stack, Ordered Set|
 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) |[Python](./repeated-substring-pattern.py) | _O(n)_ | _O(1)_ | Easy |String, String Matching|
+551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) |[Python](./student-attendance-record-i.py) | _O(n)_ | _O(1)_ | Easy |String|
 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |[Python](./reverse-words-in-a-string-iii.py) | _O(n)_ | _O(1)_ | Easy |Tow Pointers, String|
 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) |[Python](./can-place-flowers.py) | _O(n)_ | _O(1)_ | Easy |Array, Greedy|
 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) |[Python](./split-linked-list-in-parts.py) | _O(n)_ | _O(n)_ | Medium |Linked List|
