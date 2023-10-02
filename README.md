@@ -89,7 +89,7 @@
 389 | [Find The Difference](https://leetcode.com/problems/find-the-difference/) |[Python](./find-the-difference.py) | _O(n)_ | _O(n)_ | Easy |Hash Table, String, Bit Manipulation, Sorting|
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[Python](./is-subsequence.py) | _O(n)_ | _O(1)_ | Easy |Two Pointers, String, Dynamic Programming|
 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) |[Python](./number-of-segments-in-a-string.py) | _O(n)_ | _O(1)_ | Easy |String|
-441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) |[Python](./arranging-coins.py) | _O(n)_ | _O(1)_ | Easy |Math, Binary Search|
+441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) |[Python](./arranging-coins.py) | _O(1)_ | _O(1)_ | Easy |Math, Binary Search|
 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/) |[Python](./132-pattern.py) | _O(n)_ | _O(1)_ | Medium |Array, Binary Search, Stack, Monotonic Stack, Ordered Set|
 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) |[Python](./repeated-substring-pattern.py) | _O(n)_ | _O(1)_ | Easy |String, String Matching|
 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) |[Python](./max-consecutive-ones.py) | _O(n)_ | _O(1)_ | Easy |Array|
