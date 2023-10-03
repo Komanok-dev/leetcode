@@ -113,6 +113,7 @@
 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) |[Python](./the-k-weakest-rows-in-a-matrix.py) | _O(n)_ | _O(n)_ | Easy |Array, Binary Search, Sorting, Heap(Priority Queue), Matrix|
 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) |[Python](./count-all-valid-pickup-and-delivery-options.py) | _O(n)_ | _O(1)_ | Hard |Math, Dynamic Programming, Combinatorics|
 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) |[Python](./consecutive-characters.py) | _O(n)_ | _O(1)_ | Easy |String|
+1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) |[Python](./number-of-students-doing-homework-at-a-given-time.py) | _O(n)_ | _O(1)_ | Easy |String|
 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) |[Python](./number-of-good-pairs.py) | _O(n)_ | _O(1)_ | Hard |Array, Hash Table, Math, Counting|
 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) |[Python](./min-cost-to-connect-all-points.py) | _O(n^2)_ | _O(n)_ | Medium |Array, Union Find, Graph, Minimum Spanning Tree|
 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) |[Python](./path-with-minimum-effort.py) | _O(n)_ | _O(n)_ | Medium |Array, Binary Search, Deep-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix|
