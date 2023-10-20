@@ -90,6 +90,7 @@
 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) |[Python](./power-of-three.py) | _O(1)_ | _O(1)_ | Easy |Math, Resursion|
 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) |[Python](./reconstruct-itinerary.py) | _O(log<sub>m/n</sub>)_ | _O(m+n)_ | Hard |Depth-First Search, Graph, Eulerian Circuit|
 338 | [Counting Bits](https://leetcode.com/problems/counting-bits) |[Python](./counting-bits.py) | _O(n)_ | _O(n)_ | Easy |Dynamic Programming, Bit Manipulation|
+341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) |[Python](./flatten-nested-list-iterator.py) | _O(n)_ | _O(n)_ | Medium |Stack, Tree, Deep-First Search, Design, Queue, Iterator|
 343 | [Integer Break](https://leetcode.com/problems/integer-break/) |[Python](./integer-break.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Medium |Math, Dynamic Programming|
 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) |[Python](./combination-sum-iv.py) | _O(n*t)_ | _O(t)_ | Medium |Array, Dynamic Programming|
 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |[Python](./ransom-note.py) | _O(n)_ | _O(1)_ | Easy |Hash Table, String, Counting|
