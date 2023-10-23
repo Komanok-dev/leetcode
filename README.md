@@ -86,7 +86,7 @@
 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) |[Python](./single-number-iii.py) | _O(n)_ | _O(1)_ | Medium |Array, Bit Manipulation|
 268 | [Missing Number](https://leetcode.com/problems/missing-number/) |[Python](./missing-number.py) | _O(n)_ | _O(1)_ | Easy |Array, Hash Table, Math|
 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) |[Python](./find-the-duplicate-number.py) | _O(n)_ | _O(1)_ | Medium |Array, Two Pointers, Binary Search, Bit Manipulation|
-300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |[Python](./longest-increasing-subsequence.py) | _O(n^2)_ | _O(n)_ | Medium |Array, Binary Search, Dynamic Programming|
+300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |[Python](./longest-increasing-subsequence.py) | _O(nlog<sub>n</sub>)_ | _O(n)_ | Medium |Array, Binary Search, Dynamic Programming|
 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) |[Python](./remove-duplicate-letters.py) | _O(n)_ | _O(k)_ | Medium |String, Stack, Greedy, Monotonic Stack|
 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) |[Python](./bulb-switcher.py) | _O(1)_ | _O(1)_ | Medium |Math, Brainteaser|
 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) |[Python](./power-of-three.py) | _O(1)_ | _O(1)_ | Easy |Math, Resursion|
