@@ -4,8 +4,29 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
+from collections import deque
+
 class Solution:
     def largestValues(self, root: Optional[TreeNode]) -> List[int]:
+        if not root:
+            return []
+        result = []
+        q = deque([root])
+        while q:
+            row_max = q[0].val
+            for _ in range(len(q)):
+                node = q.popleft()
+                row_max = max(row_max, node.val)
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
+            result.append(row_max)
+        return result
+
+
+    def largestValues2(self, root: Optional[TreeNode]) -> List[int]:
         result = []
         curr = [root]
         while any(curr):
