@@ -5,4 +5,4 @@ class Solution:
             temp = max(one + n, two)
             one = two
             two = temp
-        return temp
+        return two
