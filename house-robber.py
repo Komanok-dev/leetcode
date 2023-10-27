@@ -6,9 +6,3 @@ class Solution:
             one = two
             two = temp
         return temp
-
-
-nums = [2,7,9,3,1]
-nums = [1,2,3,1]
-a = Solution()
-print(a.rob(nums))
