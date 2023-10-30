@@ -106,6 +106,7 @@
 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) |[Python](./number-of-segments-in-a-string.py) | _O(n)_ | _O(1)_ | Easy |String|
 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) |[Python](./arranging-coins.py) | _O(1)_ | _O(1)_ | Easy |Math, Binary Search|
 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/) |[Python](./132-pattern.py) | _O(n)_ | _O(1)_ | Medium |Array, Binary Search, Stack, Monotonic Stack, Ordered Set|
+458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) |[Python](./poor-pigs.py) | _O(n)_ | _O(1)_ | Hard |Math, Dynamic Programming, COmbinatorics|
 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) |[Python](./repeated-substring-pattern.py) | _O(n)_ | _O(1)_ | Easy |String, String Matching|
 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) |[Python](./max-consecutive-ones.py) | _O(n)_ | _O(1)_ | Easy |Array|
 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) |[Python](./construct-the-rectangle.py) | _O(n)_ | _O(1)_ | Easy |Math|
