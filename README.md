@@ -48,6 +48,7 @@
 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |[Python](./search-in-rotated-sorted-array.py) | _O(log<sub>n</sub>)_ | _O(n)_ | Medium |Array, Binary Search|
 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |[Python](./find-first-and-last-position-of-element-in-sorted-array.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Medium |Array, Binary Search|
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) |[Python](./search-insert-position.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Easy |Array, Binary Search|
+36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |[Python](./valid-sudoku.py) | _O(9^2)_ | _O(1)_ | Medium |Array, Hash Table, Matrix|
 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) |[Python](./sudoku-solver.py) | _O((9!)^9)_ | _O(1)_ | Hard |Array, Hash Table, Backtracking, Matrix|
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[Python](./group-anagrams.py) | _O(n)_ | _O(n)_ | Medium |Array, Hash Table, String, Sorting|
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[Python](./maximum-subarray.py) | _O(n)_ | _O(n)_ | Medium |Array, Divide and Conquer, Dynamic Programming|

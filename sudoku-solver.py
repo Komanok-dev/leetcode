@@ -43,7 +43,6 @@ class Solution:
                     if board[i][j] == '.':
                         return i, j
         print_board()
-        input()
         solver()
 
 
