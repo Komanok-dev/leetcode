@@ -148,6 +148,7 @@
 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) |[Python](./shuffle-the-array.py) | _O(n)_ | _O(1)_ | Easy |Array|
 1503 | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) |[Python](./last-moment-before-all-ants-fall-out-of-a-plank.py) | _O(n)_ | _O(1)_ | Medium |Array, Brainteaser, Simulation|
 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) |[Python](./number-of-good-pairs.py) | _O(n)_ | _O(1)_ | Hard |Array, Hash Table, Math, Counting|
+1535 | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) |[Python](./find-the-winner-of-an-array-game.py) | _O(n)_ | _O(1)_ | Medium |Simulation|
 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) |[Python](./min-cost-to-connect-all-points.py) | _O(n^2)_ | _O(n)_ | Medium |Array, Union Find, Graph, Minimum Spanning Tree|
 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) |[Python](./path-with-minimum-effort.py) | _O(n)_ | _O(n)_ | Medium |Array, Binary Search, Deep-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix|
 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) |[Python](./minimum-deletions-to-make-character-frequencies-unique.py) | _O(n)_ | _O(1)_ | Medium |Hash Table, String, Greedy, Sorting|
