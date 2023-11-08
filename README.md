@@ -168,3 +168,4 @@
 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) |[Python](./find-the-original-array-of-prefix-xor.py) | _O(n)_ | _O(1)_ | Medium |Bit Manipulation|
 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) |[Python](./extra-characters-in-a-string.py) | _O(n)_ | _O(n)_ | Medium |Array, Hash Table, String, Dynamic Programming, Trie|
 2742 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/) |[Python](./painting-the-walls.py) | _O(n)_ | _O(n)_ | Hard |Array,Dynamic Programming|
+2849 | [Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) |[Python](./determine-if-a-cell-is-reachable-at-a-given-time.py) | _O(1)_ | _O(1)_ | Medium |Math|
