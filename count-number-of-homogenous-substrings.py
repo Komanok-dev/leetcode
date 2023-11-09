@@ -1,5 +1,3 @@
-from collections import Counter
-
 class Solution:
     def countHomogenous(self, s: str) -> int:
         MOD = 10**9 + 7
