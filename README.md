@@ -172,6 +172,7 @@
 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) |[Python](./a-number-after-a-double-reversal.py) | _O(1)_ | _O(1)_ | Easy |Array|
 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) |[Python](./number-of-flowers-in-full-bloom.py) | _O(m*n)_ | _O(1)_ | Hard |Array, Hash Table, Binary Search, Sorting, Prefix Sum, Ordered Set|
 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) |[Python](./find-the-original-array-of-prefix-xor.py) | _O(n)_ | _O(1)_ | Medium |Bit Manipulation|
+2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) |[Python](./design-graph-with-shortest-path-calculator.py) | _O(n)_ | _O(1)_ | Hard |Graph, Design, Heap(Priority Queue), Shortest Path|
 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) |[Python](./extra-characters-in-a-string.py) | _O(n)_ | _O(n)_ | Medium |Array, Hash Table, String, Dynamic Programming, Trie|
 2742 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/) |[Python](./painting-the-walls.py) | _O(n)_ | _O(n)_ | Hard |Array,Dynamic Programming|
 2849 | [Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) |[Python](./determine-if-a-cell-is-reachable-at-a-given-time.py) | _O(1)_ | _O(1)_ | Medium |Math|
