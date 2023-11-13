@@ -71,6 +71,7 @@
 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |[Python](./best-time-to-buy-and-sell-stock-ii.py) | _O(n)_ | _O(1)_ | Medium |Array, Dynamic Programming, Greedy|
 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |[Python](./best-time-to-buy-and-sell-stock-iii.py) | _O(n)_ | _O(1)_ | Hard |Array, Dynamic Programming|
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |[Python](./valid-palindrome.py) | _O(n)_ | _O(1)_ | Easy |Two Pointers, String|
+128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[Python](./longest-consecutive-sequence.py) | _O(n)_ | _O(1)_ | Medium |Array, Hash Table, Union Find|
 136 | [Single Number](https://leetcode.com/problems/single-number/) |[Python](./single-number.py) | _O(n)_ | _O(n)_ | Easy |Array, Bit Manipulation|
 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |[Python](./copy-list-with-random-pointer.py) | _O(n)_ | _O(1)_ | Medium |Hash Table, Linked List|
 135 | [Candy](https://leetcode.com/problems/candy/) |[Python](./candy.py) | _O(n)_ | _O(1)_ | Hard |Array, Greedy|
