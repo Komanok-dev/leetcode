@@ -79,6 +79,7 @@
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |[Python](./linked-list-cycle.py) | _O(n)_ | _O(1)_ | Easy |Hash Table, Linked List, Two Pointers|
 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |[Python](./linked-list-cycle-ii.py) | _O(n)_ | _O(1)_ | Medium |Hash Table, Linked List, Two Pointers|
 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |[Python](./reverse-words-in-a-string.py) | _O(n)_ | _O(1)_ | Medium |Two Pointers, String|
+153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |[Python](./find-minimum-in-rotated-sorted-array.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Medium |Array, Binary Search|
 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |[Python](./intersection-of-two-linked-lists.py) | _O(n+m)_ | _O(1)_ | Easy |Hash Table, Linked List, Two Pointers|
 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |[Python](./two-sum-ii-input-array-is-sorted.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Medium |Array, Two Pointers, Binary Search|
 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |[Python](./excel-sheet-column-title.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Easy |Math, String|
