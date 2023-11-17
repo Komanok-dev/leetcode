@@ -170,6 +170,7 @@
 1793 | [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) |[Python](./maximum-score-of-a-good-subarray.py) | _O(n)_ | _O(1)_ | Hard |Array, Two Pointers, Binary Search, Stack, Monotonic Stack|
 1845 | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) |[Python](./seat-reservation-manager.py) | _O(n)_ | _O(n)_ | Medium |Design, Heap(Priority Queue)|
 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) |[Python](./maximum-element-after-decreasing-and-rearranging.py) | _O(n)_ | _O(1)_ | Medium |Array, Greedy, Sorting|
+1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) |[Python](./minimize-maximum-pair-sum-in-array.py) | _O(n)_ | _O(1)_ | Medium |Array, Two Pointers, Greedy, Sorting|
 1921 | [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) |[Python](./eliminate-maximum-number-of-monsters.py) | _O(n)_ | _O(n)_ | Medium |Array, Greedy, Sorting|
 1930| [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) |[Python](./unique-length-3-palindromic-subsequences.py) | _O(n)_ | _O(n)_ | Medium |Hash Table, String, Prefix Sum|
 1980| [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) |[Python](./find-unique-binary-string.py) | _O(n)_ | _O(1)_ | Medium |Array, String, Backtracking|
