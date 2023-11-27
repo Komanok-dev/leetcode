@@ -140,6 +140,7 @@
 892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/) |[Python](./surface-area-of-3d-shapes.py) | _O(n^2)_ | _O(1)_ | Easy |Array, Math, Geometry, Matrix|
 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) |[Python](./monotonic-array.py) | _O(n)_ | _O(1)_ | Easy |Array|
 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) |[Python](./sort-array-by-parity.py) | _O(n)_ | _O(1)_ | Easy |Array, Two Pointers, Sorting|
+935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) |[Python](./knight-dialer.py) | _O(n)_ | _O(1)_ | Medium |Dynamic Programming|
 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) |[Python](./longest-string-chain.py) | _O(n)_ | _O(n)_ | Medium |Array, Hash Table, Two Pointers, String, Dynamic Programming|
 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) |[Python](./smallest-subsequence-of-distinct-characters.py) | _O(n)_ | _O(k)_ | Medium |String, Stack, Greedy, Monotonic Stack|
 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) |[Python](./find-in-mountain-array.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Hard |Array, Binary Search, Interactive|
