@@ -85,6 +85,7 @@
 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |[Python](./excel-sheet-column-title.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Easy |Math, String|
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) |[Python](./majority-element.py) | _O(n*k)_ | _O(n)_ | Easy |Array, Hash Table, Divide and Couquer, Sorting, Counting|
 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) |[Python](./best-time-to-buy-and-sell-stock-iv.py) | _O(n)_ | _O(1)_ | Hard |Array, Dynamic Programming|
+191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |[Python](./number-of-1-bits.py) | _O(1)_ | _O(1)_ | Easy |Divide and Couquer, Bit Manipulation|
 198 | [House Robber](https://leetcode.com/problems/house-robber/) |[Python](./house-robber.py) | _O(n)_ | _O(1)_ | Medium |Array, Dynamic Programming|
 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |[Python](./remove-linked-list-elements.py) | _O(n)_ | _O(1)_ | Easy |Linked List, Recursion|
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |[Python](./reverse-linked-list.py) | _O(n)_ | _O(1)_ | Easy |Linked List, Recursion|
