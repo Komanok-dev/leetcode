@@ -121,7 +121,7 @@
 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) |[Python](./max-consecutive-ones.py) | _O(n)_ | _O(1)_ | Easy |Array|
 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) |[Python](./construct-the-rectangle.py) | _O(n)_ | _O(1)_ | Easy |Math|
 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) |[Python](./teemo-attacking.py) | _O(n)_ | _O(1)_ | Easy |Array, Simulation|
-501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) |[Python](./find-mode-in-binary-search-tree.py) | _O(n)_ | _O(1)_ | Easy |Tree, Deep-First Search, Binary Search Tree, Binary Tree|
+501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) |[Python](./find-mode-in-binary-search-tree.py) | _O(n)_ | _O(n)_ | Easy |Tree, Deep-First Search, Binary Search Tree, Binary Tree|
 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) |[Python](./find-largest-value-in-each-tree-row.py) | _O(n)_ | _O(1)_ | Medium |Tree, Depth_First Search, Breadth-First Search, Binary Tree|
 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) |[Python](./student-attendance-record-i.py) | _O(n)_ | _O(1)_ | Easy |String|
 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |[Python](./reverse-words-in-a-string-iii.py) | _O(n)_ | _O(1)_ | Easy |Tow Pointers, String|
@@ -194,6 +194,7 @@
 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) |[Python](./a-number-after-a-double-reversal.py) | _O(1)_ | _O(1)_ | Easy |Array|
 2147 | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) |[Python](./number-of-ways-to-divide-a-long-corridor.py) | _O(n)_ | _O(1)_ | Hard |Math, String, Dynamic Programming|
 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) |[Python](./number-of-flowers-in-full-bloom.py) | _O(m*n)_ | _O(1)_ | Hard |Array, Hash Table, Binary Search, Sorting, Prefix Sum, Ordered Set|
+2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) |[Python](./count-nodes-equal-to-average-of-subtree.py) | _O(n)_ | _O(n)_ | Medium |Tree, Deep-First Search, Binary Tree|
 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) |[Python](./minimum-amount-of-time-to-collect-garbage.py) | _O(n)_ | _O(1)_ | Medium |Array, String, Prefix Sum|
 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) |[Python](./find-the-original-array-of-prefix-xor.py) | _O(n)_ | _O(1)_ | Medium |Bit Manipulation|
 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) |[Python](./design-graph-with-shortest-path-calculator.py) | _O(n)_ | _O(1)_ | Hard |Graph, Design, Heap(Priority Queue), Shortest Path|
