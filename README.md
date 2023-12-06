@@ -176,7 +176,7 @@
 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) |[Python](./minimum-operations-to-reduce-x-to-zero.py) | _O(n)_ | _O(1)_ | Medium |Array, Hash Table, Binary Search, Sliding Window, Prefix Sum|
 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) |[Python](./check-if-two-string-arrays-are-equivalent.py) | _O(n)_ | _O(1)_ | Easy |Array, String|
 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) |[Python](./count-of-matches-in-tournament.py) | _O(1)_ | _O(1)_ | Easy |Math, Simulation|
-1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) |[Python](./calculate-money-in-leetcode-bank.py) | _O(n)_ | _O(1)_ | Easy |Math|
+1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) |[Python](./calculate-money-in-leetcode-bank.py) | _O(1)_ | _O(1)_ | Easy |Math|
 1727 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) |[Python](./largest-submatrix-with-rearrangements.py) | _O(m*nlogn)_ | _O(1)_ | Medium |Array, Greedy, Sorting, Matrix|
 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) |[Python](./latest-time-by-replacing-hidden-digits.py) | _O(n)_ | _O(n)_ | Medium |Array, Hash Table|
 1743 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) |[Python](./restore-the-array-from-adjacent-pairs.py) | _O(n)_ | _O(1)_ | Medium |Array, Hash Table|
