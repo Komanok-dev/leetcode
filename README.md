@@ -131,6 +131,7 @@
 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) |[Python](./design-hashmap.py) | _O(1)_ | _O(1)_ | Easy |String|
 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) |[Python](./to-lower-case.py) | _O(n)_ | _O(1)_ | Easy |Array, Hash Table, Linked List, Design, Hash Function|
 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) |[Python](./split-linked-list-in-parts.py) | _O(n)_ | _O(n)_ | Medium |Linked List|
+739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) |[Python](./daily-temperatures.py) | _O(n)_ | _O(n)_ | Medium |Array, Stack, Monotonic Stack|
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |[Python](./min-cost-climbing-stairs.py) | _O(n)_ | _O(1)_ | Easy |Array, Dynamic Programming|
 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) |[Python](./k-th-symbol-in-grammar.py) | _O(n)_ | _O(1)_ | Medium |Math, Bit Manipulation, Recursion|
 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) |[Python](./champagne-tower.py) | _O(n)_ | _O(n)_ | Medium |Dynamic Programming|
