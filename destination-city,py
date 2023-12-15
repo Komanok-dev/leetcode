@@ -1,0 +1,8 @@
+class Solution:
+    def destCity(self, paths: list[list[str]]) -> str:
+        hash = {}
+        for city in paths:
+            hash[city[0]] = hash.get(city[0], 0) + 1
+        for city in paths:
+            if not hash.get(city[1], 0):
+                return city[1]
