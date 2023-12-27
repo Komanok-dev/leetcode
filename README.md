@@ -152,6 +152,7 @@
 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) |[Python](./longest-string-chain.py) | _O(n)_ | _O(n)_ | Medium |Array, Hash Table, Two Pointers, String, Dynamic Programming|
 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) |[Python](./smallest-subsequence-of-distinct-characters.py) | _O(n)_ | _O(k)_ | Medium |String, Stack, Greedy, Monotonic Stack|
 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) |[Python](./find-in-mountain-array.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Hard |Array, Binary Search, Interactive|
+1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) |[Python](./number-of-dice-rolls-with-target-sum.py) | _O(n*t*k)_ | _O(t)_ | Medium |Dynamic Programming|
 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) |[Python](./find-words-that-can-be-formed-by-characters.py) | _O(n)_ | _O(1)_ | Easy |Array, Hash Table, String|
 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) |[Python](./problems/count-vowels-permutation.py) | _O(n)_ | _O(n)_ | Hard |Dynamic Programming|
 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) |[Python](./minimum-time-visiting-all-points.py) | _O(n)_ | _O(1)_ | Easy |Array, Math, Geometry |
