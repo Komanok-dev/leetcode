@@ -178,6 +178,7 @@
 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) |[Python](./path-crossing.py) | _O(n)_ | _O(n)_ | Easy |Hash Table, String|
 1503 | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) |[Python](./last-moment-before-all-ants-fall-out-of-a-plank.py) | _O(n)_ | _O(1)_ | Medium |Array, Brainteaser, Simulation|
 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) |[Python](./number-of-good-pairs.py) | _O(n)_ | _O(1)_ | Hard |Array, Hash Table, Math, Counting|
+1531 | [String Compression II](https://leetcode.com/problems/string-compression-ii/) |[Python](./string-compression-ii.py) | _O(n)_ | _O(1)_ | Hard |String, Dynamic Programming|
 1535 | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) |[Python](./find-the-winner-of-an-array-game.py) | _O(n)_ | _O(1)_ | Medium |Simulation|
 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) |[Python](./maximum-number-of-coins-you-can-get.py) | _O(n)_ | _O(1)_ | Medium |Array, Math, Greedy, Sorting|
 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) |[Python](./minimum-time-to-make-rope-colorful.py) | _O(n)_ | _O(1)_ | Medium |Array, String, Dynamic Programming, Greedy|
