@@ -145,6 +145,7 @@
 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) |[Python](./backspace-string-compare.py) | _O(n)_ | _O(1)_ | Easy |Two Pointers, String, Stack, Simulation|
 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) |[Python](./shortest-path-visiting-all-nodes.py) | _O(n*2^n)_ | _O(n*2^n)_ | Hard |Dynamic Programming, Bit Manipulation, Deep-First Search, Graph, Bitmask|
 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) |[Python](./transpose-matrix.py) | _O(n)_ | _O(1)_ | Easy |Array, Matrix, Simulation|
+872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) |[Python](./leaf-similar-trees.py) | _O(n)_ | _O(1)_ | Easy |Tree, Deep-First Search, Binary Tree|
 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) |[Python](./koko-eating-bananas.py) | _O(nlog<sub>n</sub>)_ | _O(1)_ | Medium |Array, Binary Search|
 880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) |[Python](./decoded-string-at-index.py) | _O(n)_ | _O(n)_ | Medium |String, Stack|
 892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/) |[Python](./surface-area-of-3d-shapes.py) | _O(n^2)_ | _O(1)_ | Easy |Array, Math, Geometry, Matrix|
