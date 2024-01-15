@@ -229,6 +229,7 @@
 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) |[Python](./a-number-after-a-double-reversal.py) | _O(1)_ | _O(1)_ | Easy |Array|
 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) |[Python](./number-of-laser-beams-in-a-bank.py) | _O(n*m)_ | _O(1)_ | Medium |Array, Math, String, Matrix|
 2147 | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) |[Python](./number-of-ways-to-divide-a-long-corridor.py) | _O(n)_ | _O(1)_ | Hard |Math, String, Dynamic Programming|
+2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) |[Python](./find-players-with-zero-or-one-losses.py) | _O(n)_ | _O(1)_ | Medium |Array, Hash Table, Sorting, Counting|
 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) |[Python](./number-of-flowers-in-full-bloom.py) | _O(m*n)_ | _O(1)_ | Hard |Array, Hash Table, Binary Search, Sorting, Prefix Sum, Ordered Set|
 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) |[Python](./largest-3-same-digit-number-in-string.py) | _O(n)_ | _O(1)_ | Easy |String|
 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) |[Python](./count-nodes-equal-to-average-of-subtree.py) | _O(n)_ | _O(n)_ | Medium |Tree, Deep-First Search, Binary Tree|
