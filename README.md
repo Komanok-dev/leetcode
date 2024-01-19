@@ -153,6 +153,7 @@
 892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/) |[Python](./surface-area-of-3d-shapes.py) | _O(n^2)_ | _O(1)_ | Easy |Array, Math, Geometry, Matrix|
 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) |[Python](./monotonic-array.py) | _O(n)_ | _O(1)_ | Easy |Array|
 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) |[Python](./sort-array-by-parity.py) | _O(n)_ | _O(1)_ | Easy |Array, Two Pointers, Sorting|
+931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) |[Python](./minimum-falling-path-sum.py) | _O(n)_ | _O(1)_ | Medium |Array, Dynamic Programming, Matrix|
 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) |[Python](./knight-dialer.py) | _O(n)_ | _O(1)_ | Medium |Dynamic Programming|
 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) |[Python](./range-sum-of-bst.py) | _O(n)_ | _O(n)_ | Easy |Tree, Dee-First Search, Binary Search Tree, Binary Tree|
 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) |[Python](./maximum-difference-between-node-and-ancestor.py) | _O(n)_ | _O(h)_ | Medium |Tree, Deep-First Search, Binary Tree|
