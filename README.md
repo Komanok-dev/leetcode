@@ -106,7 +106,7 @@
 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) |[Python](./power-of-three.py) | _O(1)_ | _O(1)_ | Easy |Math, Resursion|
 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) |[Python](./reconstruct-itinerary.py) | _O(log<sub>m/n</sub>)_ | _O(m+n)_ | Hard |Depth-First Search, Graph, Eulerian Circuit|
 338 | [Counting Bits](https://leetcode.com/problems/counting-bits) |[Python](./counting-bits.py) | _O(n)_ | _O(n)_ | Easy |Dynamic Programming, Bit Manipulation|
-341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) |[Python](./flatten-nested-list-iterator.py) | _O(n)_ | _O(n)_ | Medium |Stack, Tree, Deep-First Search, Design, Queue, Iterator|
+341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) |[Python](./flatten-nested-list-iterator.py) | _O(n)_ | _O(n)_ | Medium |Stack, Tree, Depth-First Search, Design, Queue, Iterator|
 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) |[Python](./power-of-four.py) | _O(1)_ | _O(1)_ | Easy |Math, Bit Manipulation, Recursion|
 343 | [Integer Break](https://leetcode.com/problems/integer-break/) |[Python](./integer-break.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Medium |Math, Dynamic Programming|
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |[Python](./top-k-frequent-elements.py) | _O(n)_ | _O(n)_ | Medium |Array, Hash Table, Divide and Conquer, Sorting|
@@ -126,13 +126,13 @@
 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) |[Python](./max-consecutive-ones.py) | _O(n)_ | _O(1)_ | Easy |Array|
 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) |[Python](./construct-the-rectangle.py) | _O(n)_ | _O(1)_ | Easy |Math|
 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) |[Python](./teemo-attacking.py) | _O(n)_ | _O(1)_ | Easy |Array, Simulation|
-501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) |[Python](./find-mode-in-binary-search-tree.py) | _O(n)_ | _O(n)_ | Easy |Tree, Deep-First Search, Binary Search Tree, Binary Tree|
+501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) |[Python](./find-mode-in-binary-search-tree.py) | _O(n)_ | _O(n)_ | Easy |Tree, Depth-First Search, Binary Search Tree, Binary Tree|
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) |[Python](./fibonacci-number.py) | _O(n)_ | _O(1)_ | Easy |Math, Dynamic Programming, Recursion, Memorization|
 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) |[Python](./find-largest-value-in-each-tree-row.py) | _O(n)_ | _O(1)_ | Medium |Tree, Depth_First Search, Breadth-First Search, Binary Tree|
 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) |[Python](./student-attendance-record-i.py) | _O(n)_ | _O(1)_ | Easy |String|
 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |[Python](./reverse-words-in-a-string-iii.py) | _O(n)_ | _O(1)_ | Easy |Tow Pointers, String|
 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) |[Python](./can-place-flowers.py) | _O(n)_ | _O(1)_ | Easy |Array, Greedy|
-606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) |[Python](./construct-string-from-binary-tree.py) | _O(n)_ | _O(1)_ | Easy |String, Tree, Deep-First Search, Binary Tree|
+606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) |[Python](./construct-string-from-binary-tree.py) | _O(n)_ | _O(1)_ | Easy |String, Tree, Depth-First Search, Binary Tree|
 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) |[Python](./set-mismatch.py) | _O(n)_ | _O(1)_ | Easy |Array, Hash Table, Bit Manipulation, Sorting|
 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) |[Python](./image-smoother.py) | _O(n)_ | _O(1)_ | Easy |Array, Matrix|
 704 | [Binary Search](https://leetcode.com/problems/binary-search/) |[Python](./binary-search.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Easy |Array, Binary Search|
@@ -146,9 +146,9 @@
 815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) |[Python](./bus-routes.py) | _O(m+n)_ | _O(m+n)_ | Hard |Array, Hash Table, Breadth-First Search|
 823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) |[Python](./binary-trees-with-factors.py) | _O(n^2)_ | _O(n)_ | Medium |Array, Hash Table, Dynamic Programming, Sorting|
 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) |[Python](./backspace-string-compare.py) | _O(n)_ | _O(1)_ | Easy |Two Pointers, String, Stack, Simulation|
-847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) |[Python](./shortest-path-visiting-all-nodes.py) | _O(n*2^n)_ | _O(n*2^n)_ | Hard |Dynamic Programming, Bit Manipulation, Deep-First Search, Graph, Bitmask|
+847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) |[Python](./shortest-path-visiting-all-nodes.py) | _O(n*2^n)_ | _O(n*2^n)_ | Hard |Dynamic Programming, Bit Manipulation, Depth-First Search, Graph, Bitmask|
 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) |[Python](./transpose-matrix.py) | _O(n)_ | _O(1)_ | Easy |Array, Matrix, Simulation|
-872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) |[Python](./leaf-similar-trees.py) | _O(n)_ | _O(1)_ | Easy |Tree, Deep-First Search, Binary Tree|
+872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) |[Python](./leaf-similar-trees.py) | _O(n)_ | _O(1)_ | Easy |Tree, Depth-First Search, Binary Tree|
 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) |[Python](./koko-eating-bananas.py) | _O(nlog<sub>n</sub>)_ | _O(1)_ | Medium |Array, Binary Search|
 880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) |[Python](./decoded-string-at-index.py) | _O(n)_ | _O(n)_ | Medium |String, Stack|
 892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/) |[Python](./surface-area-of-3d-shapes.py) | _O(n^2)_ | _O(1)_ | Easy |Array, Math, Geometry, Matrix|
@@ -158,7 +158,7 @@
 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) |[Python](./minimum-falling-path-sum.py) | _O(n)_ | _O(1)_ | Medium |Array, Dynamic Programming, Matrix|
 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) |[Python](./knight-dialer.py) | _O(n)_ | _O(1)_ | Medium |Dynamic Programming|
 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) |[Python](./range-sum-of-bst.py) | _O(n)_ | _O(n)_ | Easy |Tree, Dee-First Search, Binary Search Tree, Binary Tree|
-1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) |[Python](./maximum-difference-between-node-and-ancestor.py) | _O(n)_ | _O(h)_ | Medium |Tree, Deep-First Search, Binary Tree|
+1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) |[Python](./maximum-difference-between-node-and-ancestor.py) | _O(n)_ | _O(h)_ | Medium |Tree, Depth-First Search, Binary Tree|
 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) |[Python](./longest-string-chain.py) | _O(n)_ | _O(n)_ | Medium |Array, Hash Table, Two Pointers, String, Dynamic Programming|
 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) |[Python](./smallest-subsequence-of-distinct-characters.py) | _O(n)_ | _O(k)_ | Medium |String, Stack, Greedy, Monotonic Stack|
 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) |[Python](./find-in-mountain-array.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Hard |Array, Binary Search, Interactive|
@@ -179,7 +179,7 @@
 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) |[Python](./minimum-number-of-steps-to-make-two-strings-anagram.py) | _O(n)_ | _O(1)_ | Medium |Hash Table, String, Counting|
 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) |[Python](./sort-integers-by-the-number-of-1-bits.py) | _O(nlog<sub>n</sub>)_ | _O(1)_ | Easy |Array, Bit Manipulation, Sorting, Counting|
 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) |[Python](./count-all-valid-pickup-and-delivery-options.py) | _O(n)_ | _O(1)_ | Hard |Math, Dynamic Programming, Combinatorics|
-1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) |[Python](./validate-binary-tree-nodes.py) | _O(n)_ | _O(n)_ | Medium |Tree, Deep-First Search, Breadth-First Search, Union Find, Graph, Binary Tree|
+1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) |[Python](./validate-binary-tree-nodes.py) | _O(n)_ | _O(n)_ | Medium |Tree, Depth-First Search, Breadth-First Search, Union Find, Graph, Binary Tree|
 1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) |[Python](./build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py) | _O(n)_ | _O(1)_ | Hard |Dynamic Programming, Prefix Sum|
 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) |[Python](./maximum-score-after-splitting-a-string.py) | _O(n)_ | _O(1)_ | Easy |String|
 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) |[Python](./diagonal-traverse-ii.py) | _O(m*n)_ | _O(m*n)_ | Medium |Array, Sorting, Heap(Priority Queue)|
@@ -188,6 +188,7 @@
 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) |[Python](./build-an-array-with-stack-operations.py) | _O(n)_ | _O(1)_ | Medium |Array, Stack, Simulation|
 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) |[Python](./consecutive-characters.py) | _O(n)_ | _O(1)_ | Easy |String|
 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) |[Python](./number-of-students-doing-homework-at-a-given-time.py) | _O(n)_ | _O(1)_ | Easy |String|
+1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) |[Python](./pseudo-palindromic-paths-in-a-binary-tree.py) | _O(n)_ | _O(1)_ | Medium |Bit Manipulation, Tree, Depth-First Search, Breadth-First Search|
 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) |[Python](./max-dot-product-of-two-subsequences.py) | _O(m*n)_ | _O(min(m,n))_ | Hard |Array, Dynamic Progarmming|
 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) |[Python](./maximum-product-of-two-elements-in-an-array.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Easy |Array, Sorting, Heap(Priority Queue)|
 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) |[Python](./shuffle-the-array.py) | _O(n)_ | _O(1)_ | Easy |Array|
@@ -203,7 +204,7 @@
 1611 | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) |[Python](./minimum-one-bit-operations-to-make-integers-zero.py) | _O(logn)_ | _O(1)_ | Hard |Dynamic Programming, Bit Manipulation, Memorization|
 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) |[Python](./largest-substring-between-two-equal-characters.py) | _O(n)_ | _O(1)_ | Easy |Hash Table, String|
 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) |[Python](./arithmetic-subarrays.py) | _O(n)_ | _O(1)_ | Medium |Array, Sorting|
-1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) |[Python](./path-with-minimum-effort.py) | _O(n)_ | _O(n)_ | Medium |Array, Binary Search, Deep-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix|
+1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) |[Python](./path-with-minimum-effort.py) | _O(n)_ | _O(n)_ | Medium |Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix|
 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) |[Python](./widest-vertical-area-between-two-points-containing-no-points.py) | _O(nlog<sub>n</sub>)_ | _O(n)_ | Medium |Array, Sorting|
 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) |[Python](./minimum-deletions-to-make-character-frequencies-unique.py) | _O(n)_ | _O(1)_ | Medium |Hash Table, String, Greedy, Sorting|
 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) |[Python](./determine-if-two-strings-are-close.py) | _O(n)_ | _O(1)_ | Medium |Hash Table, String, Sorting, Counting|
@@ -240,9 +241,9 @@
 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) |[Python](./find-players-with-zero-or-one-losses.py) | _O(n)_ | _O(1)_ | Medium |Array, Hash Table, Sorting, Counting|
 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) |[Python](./number-of-flowers-in-full-bloom.py) | _O(m*n)_ | _O(1)_ | Hard |Array, Hash Table, Binary Search, Sorting, Prefix Sum, Ordered Set|
 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) |[Python](./largest-3-same-digit-number-in-string.py) | _O(n)_ | _O(1)_ | Easy |String|
-2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) |[Python](./count-nodes-equal-to-average-of-subtree.py) | _O(n)_ | _O(n)_ | Medium |Tree, Deep-First Search, Binary Tree|
+2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) |[Python](./count-nodes-equal-to-average-of-subtree.py) | _O(n)_ | _O(n)_ | Medium |Tree, Depth-First Search, Binary Tree|
 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) |[Python](./design-a-food-rating-system.py) | _O(nlog<sub>n</sub>)_ | _O(n)_ | Medium |Hash Table, Design, Heap(Priority Queue), Ordered Set|
-2385 | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) |[Python](./amount-of-time-for-binary-tree-to-be-infected.py) | _O(n)_ | _O(n)_ | Medium |Tree, Deep-First Search, Breadth-First Search, Binary Tree|
+2385 | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) |[Python](./amount-of-time-for-binary-tree-to-be-infected.py) | _O(n)_ | _O(n)_ | Medium |Tree, Depth-First Search, Breadth-First Search, Binary Tree|
 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) |[Python](./minimum-amount-of-time-to-collect-garbage.py) | _O(n)_ | _O(1)_ | Medium |Array, String, Prefix Sum|
 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) |[Python](./find-the-original-array-of-prefix-xor.py) | _O(n)_ | _O(1)_ | Medium |Bit Manipulation|
 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) |[Python](./difference-between-ones-and-zeros-in-row-and-column.py) | _O(n)_ | _O(1)_ | Medium |Array, Matrix, Simulation|
