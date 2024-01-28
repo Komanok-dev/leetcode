@@ -160,6 +160,7 @@
 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) |[Python](./range-sum-of-bst.py) | _O(n)_ | _O(n)_ | Easy |Tree, Dee-First Search, Binary Search Tree, Binary Tree|
 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) |[Python](./maximum-difference-between-node-and-ancestor.py) | _O(n)_ | _O(h)_ | Medium |Tree, Depth-First Search, Binary Tree|
 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) |[Python](./longest-string-chain.py) | _O(n)_ | _O(n)_ | Medium |Array, Hash Table, Two Pointers, String, Dynamic Programming|
+1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) |[Python](./number-of-submatrices-that-sum-to-target.py) | _O(m^2*n)_ | _O(n)_ | Hard |Array, Hash Table, Matrix|
 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) |[Python](./smallest-subsequence-of-distinct-characters.py) | _O(n)_ | _O(k)_ | Medium |String, Stack, Greedy, Monotonic Stack|
 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) |[Python](./find-in-mountain-array.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Hard |Array, Binary Search, Interactive|
 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) |[Python](./n-th-tribonacci-number.py) | _O(n)_ | _O(1)_ | Easy |Math, Dynamic Programming, Memorization|
