@@ -94,6 +94,7 @@
 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |[Python](./implement-stack-using-queues.py) | _O(n)_ | _O(1)_ | Easy |Stack, Design, Queue|
 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) |[Python](./msummary-ranges.py) | _O(n)_ | _O(1)_ | Easy |Array|
 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) |[Python](./majority-element-ii.py) | _O(n)_ | _O(1)_ | Medium |Array, Hash Table, Sorting, Counting|
+232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) |[Python](./implement-queue-using-stacks.py) | _O(n)_ | _O(1)_ | Easy |Stack, Design, Queue|
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |[Python](./product-of-array-except-self.py) | _O(n)_ | _O(1)_ | Medium |Array, Prefix Sum|
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[Python](./valid-anagram.py) | _O(n)_ | _O(n)_ | Easy |Hash Table, String, Sorting|
 258 | [Add Digits](https://leetcode.com/problems/add-digits/) |[Python](./add-digits.py) | _O(1)_ | _O(1)_ | Easy |Math, Simulation, Number Theory|
