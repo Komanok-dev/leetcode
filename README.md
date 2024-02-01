@@ -259,3 +259,4 @@
 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) |[Python](./sort-vowels-in-a-string.py) | _O(n)_ | _O(1)_ | Medium |String, Sorting|
 2870 | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) |[Python](./minimum-number-of-operations-to-make-array-empty.py) | _O(n)_ | _O(1)_ | Medium |Array, Hash Table, Greedy, Counting|
 2849 | [Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) |[Python](./determine-if-a-cell-is-reachable-at-a-given-time.py) | _O(1)_ | _O(1)_ | Medium |Math|
+2966 | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) |[Python](./divide-array-into-arrays-with-max-difference.py) | _O(n)_ | _O(1)_ | Medium |Array, Greedy, Sorting|
