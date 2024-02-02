@@ -16,3 +16,4 @@ class Solution:
             if num % 10 + 1 < 10:
                 q.append(num * 10 + num % 10 + 1)
         return result
+    
