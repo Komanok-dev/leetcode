@@ -61,6 +61,7 @@
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |[Python](./sqrt(x).py) | _O(log<sub>n</sub>)_ | _O(1)_ | Easy |Math, Binary Search|
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |[Python](./climbing-stairs.py) | _O(n)_ | _O(1)_ | Easy |Math, Dynamic Programming, Memorization|
 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |[Python](./search-a-2d-matrix.py) | _O(log<sub>m</sub>+log<sub>n</sub>)_ | _O(1)_ | Medium |Array, Binary Search, Matrix|
+76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |[Python](./minimum-window-substring.py) | _O(n)_ | _O(1)_ | Hard |Hash Table, String, Sliding Window|
 83 | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |[Python](./remove-duplicates-from-sorted-list.py) | _O(n)_ | _O(n)_ | Easy |Linked List|
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |[Python](./merge-sorted-array.py) | _O(n)_ | _O(1)_ | Easy |Array, Two Pointers, Sorting|
 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) |[Python](./decode-ways.py) | _O(n)_ | _O(1)_ | Medium |String, Dynamic Programming|
