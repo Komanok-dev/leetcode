@@ -116,6 +116,7 @@
 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) |[Python](./combination-sum-iv.py) | _O(n*t)_ | _O(t)_ | Medium |Array, Dynamic Programming|
 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) |[Python](./insert-delete-getrandom-o1.py) | _O(n)_ | _O(1)_ | Medium |Array, Hash Table, Math, Design|
 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |[Python](./ransom-note.py) | _O(n)_ | _O(1)_ | Easy |Hash Table, String, Counting|
+387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |[Python](./first-unique-character-in-a-string.py) | _O(n)_ | _O(1)_ | Easy |Hash Table, String, Queue, Counting|
 389 | [Find The Difference](https://leetcode.com/problems/find-the-difference/) |[Python](./find-the-difference.py) | _O(n)_ | _O(n)_ | Easy |Hash Table, String, Bit Manipulation, Sorting|
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[Python](./is-subsequence.py) | _O(n)_ | _O(1)_ | Easy |Two Pointers, String, Dynamic Programming|
 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) |[Python](./longest-repeating-character-replacement.py) | _O(n)_ | _O(1)_ | Medium |Hash Table, String, Sliding Window|
