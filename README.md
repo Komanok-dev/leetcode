@@ -142,6 +142,7 @@
 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) |[Python](./can-place-flowers.py) | _O(n)_ | _O(1)_ | Easy |Array, Greedy|
 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) |[Python](./construct-string-from-binary-tree.py) | _O(n)_ | _O(1)_ | Easy |String, Tree, Depth-First Search, Binary Tree|
 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) |[Python](./set-mismatch.py) | _O(n)_ | _O(1)_ | Easy |Array, Hash Table, Bit Manipulation, Sorting|
+647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) |[Python](./palindromic-substrings.py) | _O(n)_ | _O(n)_ | Medium |String, Dynamic Programming|
 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) |[Python](./image-smoother.py) | _O(n)_ | _O(1)_ | Easy |Array, Matrix|
 704 | [Binary Search](https://leetcode.com/problems/binary-search/) |[Python](./binary-search.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Easy |Array, Binary Search|
 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) |[Python](./design-hashmap.py) | _O(1)_ | _O(1)_ | Easy |String|
