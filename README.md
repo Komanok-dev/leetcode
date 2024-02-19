@@ -96,6 +96,7 @@
 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |[Python](./implement-stack-using-queues.py) | _O(n)_ | _O(1)_ | Easy |Stack, Design, Queue|
 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) |[Python](./msummary-ranges.py) | _O(n)_ | _O(1)_ | Easy |Array|
 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) |[Python](./majority-element-ii.py) | _O(n)_ | _O(1)_ | Medium |Array, Hash Table, Sorting, Counting|
+231 | [Power of Two](https://leetcode.com/problems/power-of-two/) |[Python](./power-of-two.py) | _O(1)_ | _O(1)_ | Easy |Math, Bit Manipulation, Recursion|
 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) |[Python](./implement-queue-using-stacks.py) | _O(n)_ | _O(1)_ | Easy |Stack, Design, Queue|
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |[Python](./product-of-array-except-self.py) | _O(n)_ | _O(1)_ | Medium |Array, Prefix Sum|
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[Python](./valid-anagram.py) | _O(n)_ | _O(n)_ | Easy |Hash Table, String, Sorting|
@@ -203,6 +204,7 @@
 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) |[Python](./number-of-students-doing-homework-at-a-given-time.py) | _O(n)_ | _O(1)_ | Easy |String|
 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) |[Python](./pseudo-palindromic-paths-in-a-binary-tree.py) | _O(n)_ | _O(1)_ | Medium |Bit Manipulation, Tree, Depth-First Search, Breadth-First Search|
 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) |[Python](./max-dot-product-of-two-subsequences.py) | _O(m*n)_ | _O(min(m,n))_ | Hard |Array, Dynamic Progarmming|
+1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) |[Python](./cherry-pickup-ii.py) | _O(n)_ | _O(1)_ | Hard |Array, Dynamic Programming, Matrix|
 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) |[Python](./maximum-product-of-two-elements-in-an-array.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Easy |Array, Sorting, Heap(Priority Queue)|
 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) |[Python](./shuffle-the-array.py) | _O(n)_ | _O(1)_ | Easy |Array|
 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) |[Python](./path-crossing.py) | _O(n)_ | _O(n)_ | Easy |Hash Table, String|
