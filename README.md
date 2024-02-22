@@ -169,6 +169,7 @@
 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) |[Python](./minimum-falling-path-sum.py) | _O(n)_ | _O(1)_ | Medium |Array, Dynamic Programming, Matrix|
 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) |[Python](./knight-dialer.py) | _O(n)_ | _O(1)_ | Medium |Dynamic Programming|
 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) |[Python](./range-sum-of-bst.py) | _O(n)_ | _O(n)_ | Easy |Tree, Dee-First Search, Binary Search Tree, Binary Tree|
+997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) |[Python](./find-the-town-judge.py) | _O(n)_ | _O(1)_ | Easy |Array, Hash Table, Graph|
 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) |[Python](./maximum-difference-between-node-and-ancestor.py) | _O(n)_ | _O(h)_ | Medium |Tree, Depth-First Search, Binary Tree|
 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) |[Python](./partition-array-for-maximum-sum.py) | _O(n)_ | _O(k)_ | Medium |Array, Dynamic Programming|
 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) |[Python](./longest-string-chain.py) | _O(n)_ | _O(n)_ | Medium |Array, Hash Table, Two Pointers, String, Dynamic Programming|
