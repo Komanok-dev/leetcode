@@ -143,8 +143,10 @@
 576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) |[Python](./out-of-boundary-paths.py) | _O(m*n)_ | _O(m*n*N)_ | Medium |Dynamic Programming|
 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) |[Python](./can-place-flowers.py) | _O(n)_ | _O(1)_ | Easy |Array, Greedy|
 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) |[Python](./construct-string-from-binary-tree.py) | _O(n)_ | _O(1)_ | Easy |String, Tree, Depth-First Search, Binary Tree|
+621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) |[Python](./task-scheduler.py) | _O(n)_ | _O(1)_ | Medium |Array, Hash Table, Greedy, Sorting|
 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) |[Python](./set-mismatch.py) | _O(n)_ | _O(1)_ | Easy |Array, Hash Table, Bit Manipulation, Sorting|
 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) |[Python](./palindromic-substrings.py) | _O(n)_ | _O(n)_ | Medium |String, Dynamic Programming|
+650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) |[Python](./2-keys-keyboard.py) | _O(n)_ | _O(1)_ | Medium |Math, Dynamic Programming|
 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) |[Python](./image-smoother.py) | _O(n)_ | _O(1)_ | Easy |Array, Matrix|
 704 | [Binary Search](https://leetcode.com/problems/binary-search/) |[Python](./binary-search.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Easy |Array, Binary Search|
 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) |[Python](./design-hashmap.py) | _O(1)_ | _O(1)_ | Easy |String|
@@ -153,6 +155,7 @@
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) |[Python](./daily-temperatures.py) | _O(n)_ | _O(n)_ | Medium |Array, Stack, Monotonic Stack|
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |[Python](./min-cost-climbing-stairs.py) | _O(n)_ | _O(1)_ | Easy |Array, Dynamic Programming|
 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) |[Python](./k-th-symbol-in-grammar.py) | _O(n)_ | _O(1)_ | Medium |Math, Bit Manipulation, Recursion|
+787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) |[Python](./cheapest-flights-within-k-stops.py) | _O(n)_ | _O(1)_ | Medium |Dynamic Programming, Depth-First Search, Breadth-First Search, Graph|
 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) |[Python](./champagne-tower.py) | _O(n)_ | _O(n)_ | Medium |Dynamic Programming|
 815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) |[Python](./bus-routes.py) | _O(m+n)_ | _O(m+n)_ | Hard |Array, Hash Table, Breadth-First Search|
 823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) |[Python](./binary-trees-with-factors.py) | _O(n^2)_ | _O(n)_ | Medium |Array, Hash Table, Dynamic Programming, Sorting|
