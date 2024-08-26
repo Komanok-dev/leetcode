@@ -146,7 +146,7 @@
 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) |[Python](./task-scheduler.py) | _O(n)_ | _O(1)_ | Medium |Array, Hash Table, Greedy, Sorting|
 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) |[Python](./set-mismatch.py) | _O(n)_ | _O(1)_ | Easy |Array, Hash Table, Bit Manipulation, Sorting|
 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) |[Python](./palindromic-substrings.py) | _O(n)_ | _O(n)_ | Medium |String, Dynamic Programming|
-650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) |[Python](./2-keys-keyboard.py) | _O(n)_ | _O(1)_ | Medium |Math, Dynamic Programming|
+650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) |[Python](./2-keys-keyboard.py) | _O(n^2)_ | _O(n)_ | Medium |Math, Dynamic Programming|
 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) |[Python](./image-smoother.py) | _O(n)_ | _O(1)_ | Easy |Array, Matrix|
 704 | [Binary Search](https://leetcode.com/problems/binary-search/) |[Python](./binary-search.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Easy |Array, Binary Search|
 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) |[Python](./design-hashmap.py) | _O(1)_ | _O(1)_ | Easy |String|
