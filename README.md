@@ -161,6 +161,7 @@
 823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) |[Python](./binary-trees-with-factors.py) | _O(n^2)_ | _O(n)_ | Medium |Array, Hash Table, Dynamic Programming, Sorting|
 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) |[Python](./backspace-string-compare.py) | _O(n)_ | _O(1)_ | Easy |Two Pointers, String, Stack, Simulation|
 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) |[Python](./shortest-path-visiting-all-nodes.py) | _O(n*2^n)_ | _O(n*2^n)_ | Hard |Dynamic Programming, Bit Manipulation, Depth-First Search, Graph, Bitmask|
+860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) |[Python](./lemonade-change.py) | _O(n)_ | _O(1)_ | Easy |Array, Greedy|
 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) |[Python](./transpose-matrix.py) | _O(n)_ | _O(1)_ | Easy |Array, Matrix, Simulation|
 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) |[Python](./leaf-similar-trees.py) | _O(n)_ | _O(1)_ | Easy |Tree, Depth-First Search, Binary Tree|
 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) |[Python](./koko-eating-bananas.py) | _O(nlog<sub>n</sub>)_ | _O(1)_ | Medium |Array, Binary Search|
