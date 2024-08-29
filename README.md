@@ -270,6 +270,7 @@
 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) |[Python](./difference-between-ones-and-zeros-in-row-and-column.py) | _O(n)_ | _O(1)_ | Medium |Array, Matrix, Simulation|
 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) |[Python](./dconvert-an-array-into-a-2d-array-with-conditions.py) | _O(n)_ | _O(n)_ | Medium |Array, Hash Table|
 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) |[Python](./design-graph-with-shortest-path-calculator.py) | _O(n)_ | _O(1)_ | Hard |Graph, Design, Heap(Priority Queue), Shortest Path|
+2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) |[Python](./number-of-senior-citizens.py) | _O(n)_ | _O(1)_ | Easy |Array, String|
 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) |[Python](./buy-two-chocolates.py) | _O(n)_ | _O(1)_ | Easy |Array, Sorting|
 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) |[Python](./extra-characters-in-a-string.py) | _O(n)_ | _O(n)_ | Medium |Array, Hash Table, String, Dynamic Programming, Trie|
 2742 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/) |[Python](./painting-the-walls.py) | _O(n)_ | _O(n)_ | Hard |Array,Dynamic Programming|
