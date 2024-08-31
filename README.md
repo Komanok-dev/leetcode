@@ -210,6 +210,7 @@
 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) |[Python](./number-of-students-doing-homework-at-a-given-time.py) | _O(n)_ | _O(1)_ | Easy |String|
 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) |[Python](./pseudo-palindromic-paths-in-a-binary-tree.py) | _O(n)_ | _O(1)_ | Medium |Bit Manipulation, Tree, Depth-First Search, Breadth-First Search|
 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) |[Python](./max-dot-product-of-two-subsequences.py) | _O(m*n)_ | _O(min(m,n))_ | Hard |Array, Dynamic Progarmming|
+1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) |[Python](./make-two-arrays-equal-by-reversing-subarrays.py) | _O(n)_ | _O(1)_ | Easy |Array, Hash Table, Sorting|
 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) |[Python](./cherry-pickup-ii.py) | _O(n)_ | _O(1)_ | Hard |Array, Dynamic Programming, Matrix|
 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) |[Python](./maximum-product-of-two-elements-in-an-array.py) | _O(log<sub>n</sub>)_ | _O(1)_ | Easy |Array, Sorting, Heap(Priority Queue)|
 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) |[Python](./shuffle-the-array.py) | _O(n)_ | _O(1)_ | Easy |Array|
