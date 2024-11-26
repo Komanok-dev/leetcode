@@ -26,7 +26,7 @@
 | 11 | _O(n!)_ | Factorial / Permutation / Combination Algorithm |
 
 ## Solutions
-|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note| 
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./two-sum.py) | _O(n)_ | _O(n)_ | Easy |Array, Hash Table|
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./add-two-numbers.py) | _O(n)_ | _O(1)_ | Medium |Linked List, Math, Recursion|
@@ -240,6 +240,7 @@
 1743 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) |[Python](./restore-the-array-from-adjacent-pairs.py) | _O(n)_ | _O(1)_ | Medium |Array, Hash Table|
 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) |[Python](./minimum-changes-to-make-alternating-binary-string.py) | _O(n)_ | _O(1)_ | Easy |String|
 1759 | [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/) |[Python](./count-number-of-homogenous-substrings.py) | _O(n)_ | _O(1)_ | Medium |Math, String|
+1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) |[Python](./merge-strings-alternately.py) | _O(n)_ | _O(1)_ | Easy |Two Pointers, String|
 1793 | [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) |[Python](./maximum-score-of-a-good-subarray.py) | _O(n)_ | _O(1)_ | Hard |Array, Two Pointers, Binary Search, Stack, Monotonic Stack|
 1814 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) |[Python](./count-nice-pairs-in-an-array.py) | _O(n)_ | _O(1)_ | Medium |Array, Hash Table, Math, Counting|
 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) |[Python](./frequency-of-the-most-frequent-element.py) | _O(n)_ | _O(1)_ | Medium |Array, Binary Search, Greedy, Sliding Window|
